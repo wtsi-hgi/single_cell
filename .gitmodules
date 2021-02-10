@@ -1,3 +1,9 @@
 [submodule "pipelines/nf_scrna_deconvolution"]
 	path = pipelines/nf_scrna_deconvolution
 	url = git@github.com:wtsi-hgi/nf_scrna_deconvolution.git
+[submodule "pipelines/nf_irods_to_lustre"]
+	path = pipelines/nf_irods_to_lustre
+	url = git@github.com:wtsi-hgi/nf_irods_to_lustre.git
+[submodule "containers/scrna_deconvolution_container"]
+	path = containers/scrna_deconvolution_container
+	url = git@github.com:wtsi-hgi/scrna_deconvolution_container.git

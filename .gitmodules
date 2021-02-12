@@ -7,3 +7,21 @@
 [submodule "containers/scrna_deconvolution_container"]
 	path = containers/scrna_deconvolution_container
 	url = git@github.com:wtsi-hgi/scrna_deconvolution_container.git
+[submodule "pipelines/nf_cell_cell_interaction"]
+	path = pipelines/nf_cell_cell_interaction
+	url = git@github.com:wtsi-hgi/nf_cell_cell_interaction.git
+[submodule "pipelines/nf_cellbender"]
+	path = pipelines/nf_cellbender
+	url = git@github.com:wtsi-hgi/nf_cellbender.git
+[submodule "pipelines/nf_qc_cluster"]
+	path = pipelines/nf_qc_cluster
+	url = git@github.com:wtsi-hgi/nf_qc_cluster.git
+[submodule "pipelines/nf_differential_composition"]
+	path = pipelines/nf_differential_composition
+	url = git@github.com:wtsi-hgi/nf_differential_composition.git
+[submodule "pipelines/nf_differential_expression"]
+	path = pipelines/nf_differential_expression
+	url = git@github.com:wtsi-hgi/nf_differential_expression.git
+[submodule "pipelines/nf_differential_condition"]
+	path = pipelines/nf_differential_condition
+	url = git@github.com:wtsi-hgi/nf_differential_condition.git

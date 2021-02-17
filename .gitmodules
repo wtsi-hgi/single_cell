@@ -25,3 +25,6 @@
 [submodule "pipelines/nf_differential_condition"]
 	path = pipelines/nf_differential_condition
 	url = git@github.com:wtsi-hgi/nf_differential_condition.git
+[submodule "pipelines/nf_scrna_sccaf"]
+	path = pipelines/nf_scrna_sccaf
+	url = git@github.com:wtsi-hgi/nf_scrna_sccaf.git
